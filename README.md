@@ -1,4 +1,5 @@
 # nih
+![CI](https://github.com/anpep/nih/workflows/CI/badge.svg?branch=master)
 > Implementation of commonly used data-structures and snippets
 
 ## Summary
